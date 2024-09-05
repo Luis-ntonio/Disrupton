@@ -1,0 +1,10 @@
+train: train/
+valid: valid/
+test: test/
+
+# number of classes
+nc: 26
+
+# class names
+
+names: ["Ajinomen", "Auriculares", "Boleto", "Bolsa", "Botella", "Boton", "Caja", "Chicles", "Cinta", "EnvaseAgua", "Etiqueta", "Galletas", "Lapicero", "Lapiz", "Madera", "Marcador", "Naranja", "Pajita", "Palta", "Papas", "Papel", "Pila", "Platano", "Sachet", "Taper", "Vaso"]
